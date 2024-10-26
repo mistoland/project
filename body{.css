@@ -1,0 +1,7 @@
+body{
+    background-image: url(img2/birthday.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5px;
+    height: 450px; 
+}
